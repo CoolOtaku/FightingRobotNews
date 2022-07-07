@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="none">#00FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#A72323</color>
+    <color name="bg_btn">#333333</color>
+    <color name="window_bg_color">#1A1A1A</color>
+    <color name="text2_color">#C1C1C1</color>
+    <color name="text3_color">#4F4F4F</color>
+
+    <color name="black_opacity">#66000000</color>
+    <color name="black_opacity2">#26000000</color>
+
+    <color name="pink">#DE26BF</color>
+    <color name="blue">#008CB3</color>
+    <color name="green">#418707</color>
+</resources>

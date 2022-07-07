@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fighting Robot News</string>
+    <string name="news_in_cyber_sport">Новини кіберспорту</string>
+    <string name="description_app">В нас опубліковано новини по самим популярним кіберспорт дисциплінах. А саме: \"Counter-Strike: Global Offensive\", \"Dota 2\", \"League of Legends\", \"Valorant\".</string>
+    <string name="counter_strike_global_offensive">Counter-Strike: Global Offensive</string>
+    <string name="dota_2">Dota 2</string>
+    <string name="league_of_legends">League of Legends</string>
+    <string name="valorant">Valorant</string>
+    <string name="search">Шукати</string>
+
+    <string name="sorry_not_exist_data">Вибачте немає даних по даній темі 😅</string>
+    <string name="dev_name">Цісельський Віктор</string>
+    <string name="dev_description">Цісельський Віктор розробив андройд додаток під назвою \"Fighting Robot News\", для перегляду новин з кібер дисциплін: \"Counter-Strike: Global Offensive\", \"Dota 2\", \"League of Legends\", \"Valorant\"</string>
+
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="telegram">Telegram</string>
+
+    <string name="instagram_url">https://www.instagram.com/v.1.k.t.o.r.t/</string>
+    <string name="facebook_url">https://www.facebook.com/profile.php?id=100009393775617</string>
+    <string name="telegram_url">https://t.me/SaxeMusic</string>
+
+</resources>
